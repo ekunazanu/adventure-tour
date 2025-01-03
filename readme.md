@@ -1,0 +1,1 @@
+Adventure Tour was supposed to be a text-based CYOA. I randomly made this over a weekend when I was a kid so it is primitive and incomplete, but I am publishing it anyway since this was my first ever program.
